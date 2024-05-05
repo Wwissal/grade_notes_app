@@ -1,7 +1,7 @@
 <?php
 $servername = "gestionotes-server.mysql.database.azure.com";
 $username = "xrxmuqgnev";
-$password = "BxkEmwnh";
+$password = "Hello@world12";
 $dbname = "gestionotes-database";
 
 // Create connection
