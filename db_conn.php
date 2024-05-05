@@ -1,7 +1,7 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "mysql-database-vnet.mysql.database.azure.com";
+$username = "user";
+$password = "Hello@world12";
 $dbname = "apu";
 
 // Create connection
